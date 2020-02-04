@@ -1,0 +1,2882 @@
+[
+    {
+        "groupid": "1",
+        "name": "Templates",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "2",
+        "name": "LINUX SERVERS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "4",
+        "name": "zabbix/servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "5",
+        "name": "Discovered hosts",
+        "internal": "1",
+        "flags": "0"
+    },
+    {
+        "groupid": "6",
+        "name": "Virtual machines",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "7",
+        "name": "Hypervisors",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "18",
+        "name": "Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "20",
+        "name": "Load Balancer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "21",
+        "name": "Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "23",
+        "name": "Networking Hardware",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "24",
+        "name": "ZBX-FORTINET-TEMPLATES",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "25",
+        "name": "vCenters",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "26",
+        "name": "TEMPLATES.2017",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "27",
+        "name": "Generic Templates",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "28",
+        "name": "VMWare Guests",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "29",
+        "name": "Sem Visao Operacao",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "36",
+        "name": "VMWare Cluster Environments",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "37",
+        "name": "WindStream - environments",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "38",
+        "name": "VMWare Cluster Developments",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "39",
+        "name": "WINDOWS SERVERS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "40",
+        "name": "ServerCentral",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "41",
+        "name": "SC AD",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "42",
+        "name": "SC Network Devices",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "43",
+        "name": "SC Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "44",
+        "name": "SC Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "45",
+        "name": "SC NLB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "46",
+        "name": "SC Windows Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "47",
+        "name": "SC Linux Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "48",
+        "name": "SC Jump Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "49",
+        "name": "SC Storages",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "50",
+        "name": "Template Dell",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "51",
+        "name": "SC Operations",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "52",
+        "name": "SC Production",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "53",
+        "name": "Treasury",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "54",
+        "name": "Transacional",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "55",
+        "name": "POI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "56",
+        "name": "Authorizer/Scheme Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "58",
+        "name": "Authorizer/Key Manager",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "59",
+        "name": "Authorizer/Authorization Service Bus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "60",
+        "name": "Authorizer/HSM Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "62",
+        "name": "VMWare Cluster Production",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "64",
+        "name": "VMWare Cluster CLSDC1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "65",
+        "name": "VMWare Cluster Netservices",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "66",
+        "name": "Tier Point",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "68",
+        "name": "Financial IT/Conciliation",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "69",
+        "name": "Accounting",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "70",
+        "name": "Artifactory",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "71",
+        "name": "Affiliation",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "73",
+        "name": "COF",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "74",
+        "name": "Credenciamento",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "75",
+        "name": "SC MongoDB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "76",
+        "name": "FLIP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "77",
+        "name": "GLIAS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "81",
+        "name": "SC Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "82",
+        "name": "TP Network Devices",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "83",
+        "name": "TP Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "84",
+        "name": "Clearing",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "85",
+        "name": "TP NLB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "86",
+        "name": "Splunk Base",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "87",
+        "name": "WSGATE",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "88",
+        "name": "TP Windows Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "89",
+        "name": "Network Devices",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "90",
+        "name": "Mundipagg",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "92",
+        "name": "Tsuru",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "93",
+        "name": "RAV",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "94",
+        "name": "Customer Portal",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "95",
+        "name": "Global Identity",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "96",
+        "name": "SC Mundipagg Windows Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "97",
+        "name": "SC Mundipagg",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "98",
+        "name": "Database Mundipagg",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "99",
+        "name": "TP Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "100",
+        "name": "TMS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "101",
+        "name": "DevRC",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "102",
+        "name": "Cerberus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "103",
+        "name": "AppDynamics",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "104",
+        "name": "Chargeback",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "105",
+        "name": "Contas a Pagar",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "106",
+        "name": "TP Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "107",
+        "name": "CADU",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "109",
+        "name": "Fraud Detection",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "111",
+        "name": "GoCD",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "112",
+        "name": "DevSP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "113",
+        "name": "WebMonitors",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "114",
+        "name": "Tempo Real",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "115",
+        "name": "Plataforma",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "117",
+        "name": "Netservices",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "119",
+        "name": "TP Linux Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "120",
+        "name": "Antecipacao",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "121",
+        "name": "SQL Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "122",
+        "name": "Oracle Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "123",
+        "name": "Algosec",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "124",
+        "name": "Rabbit Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "125",
+        "name": "TierPoint/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "126",
+        "name": "Pagadoria",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "127",
+        "name": "Authorizer/Authorization Provider",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "128",
+        "name": "SC Authorization Provider",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "129",
+        "name": "TP Authorization Provider",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "130",
+        "name": "TP POI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "131",
+        "name": "SC POI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "132",
+        "name": "TP Authorization Service Bus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "133",
+        "name": "SC Authorization Service Bus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "134",
+        "name": "TP Scheme Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "135",
+        "name": "SC Scheme Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "136",
+        "name": "SC HSM Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "137",
+        "name": "TP HSM Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "138",
+        "name": "Cerberus/Buy4.Lapi",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "139",
+        "name": "Cerberus/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "140",
+        "name": "Logger.ElasticsearchConsumer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "141",
+        "name": "Cerberus/Elasticsearch",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "142",
+        "name": "Cerberus/Kibana",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "143",
+        "name": "Tsuru/Controllers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "144",
+        "name": "Tsuru/Routers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "145",
+        "name": "Tsuru/Workers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "146",
+        "name": "Tsuru/Monitors",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "147",
+        "name": "Authorizer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "148",
+        "name": "DMZ3",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "149",
+        "name": "INSIDE2",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "150",
+        "name": "SC Redis",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "151",
+        "name": "SC Authorizer/Key Manager",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "152",
+        "name": "Cerberus/Buy4.LoggerElasticsearchConsumer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "153",
+        "name": "SPLIT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "154",
+        "name": "Matera",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "155",
+        "name": "VMWare Cluster CLSDC2",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "157",
+        "name": "TP Storages",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "158",
+        "name": "Pyora",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "159",
+        "name": "TEF HOUSES",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "165",
+        "name": "ServerCentral-VMWare Cluster Production",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "166",
+        "name": "ServerCentral-VMWare Cluster CLSDC1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "167",
+        "name": "ServerCentral-VMWare Cluster Netservices",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "168",
+        "name": "TierPoint-VMWare Cluster Production",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "169",
+        "name": "TierPoint-VMWare Cluster CLSDC2",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "172",
+        "name": "Logistic",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "173",
+        "name": "SC Database Stone Frontoffice",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "174",
+        "name": "SC Database Stone Backoffice",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "175",
+        "name": "TP Database Stone Backoffice",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "176",
+        "name": "TP Database Stone Frontoffice",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "177",
+        "name": "New Hosts",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "178",
+        "name": "Datacenter Operations",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "179",
+        "name": "RabbitMQ Clusters",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "180",
+        "name": "Storages",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "181",
+        "name": "TP Mundipagg",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "182",
+        "name": "TP Mundipagg Windows Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "183",
+        "name": "CIP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "184",
+        "name": "SC Mundipagg Linux Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "185",
+        "name": "TP OOB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "186",
+        "name": "Squid Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "187",
+        "name": "VNX Storage Array",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "188",
+        "name": "Connect Direct",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "189",
+        "name": "CLIENTES TEF",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "193",
+        "name": "MTR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "194",
+        "name": "Tivit SP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "195",
+        "name": "Tivit RJ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "196",
+        "name": "EDB Gateway",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "197",
+        "name": "Mundipagg SQL Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "198",
+        "name": "Bank Balance",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "205",
+        "name": "FrontOffice DataBase Info",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "206",
+        "name": "Glias Rabbit",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "207",
+        "name": "Glias Database",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "208",
+        "name": "Glias routines",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "209",
+        "name": "Mundipagg - Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "210",
+        "name": "Portal Admin",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "211",
+        "name": "Api Gateway",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "212",
+        "name": "Cerberus/UniversalConsumerService",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "213",
+        "name": "Routers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "214",
+        "name": "Services",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "215",
+        "name": "Macros",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "216",
+        "name": "Gim",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "217",
+        "name": "Financial IT Acquirer/API Health Checks",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "218",
+        "name": "Heavy Forwarder",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "219",
+        "name": "Indexer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "220",
+        "name": "Search Head",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "221",
+        "name": "Splunk Heavy Forwarder",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "222",
+        "name": "Splunk Search Head",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "223",
+        "name": "Splunk Indexer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "224",
+        "name": "Splunk Deployers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "225",
+        "name": "Pagadoria/HealthChecks",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "228",
+        "name": "Databases/MongoDB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "229",
+        "name": "Databases/MongoDB/Mundi - ReplicaSet: MicroRep",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "230",
+        "name": "Databases/MongoDB/API Risco e Produtos CadU (Mongo03)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "231",
+        "name": "Databases/MongoDB/PomboCorreio e Athena (Mongo04)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "232",
+        "name": "Databases/MongoDB/Connect Direct API (Mongo05)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "233",
+        "name": "Databases/MongoDB/Celebro (Mongo06)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "234",
+        "name": "Databases/MongoDB/Risk (Mongo07)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "235",
+        "name": "Databases/MongoDB/SharonBot (Mongo08)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "236",
+        "name": "Databases/Oracle/Oracle EBS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "237",
+        "name": "Databases/Oracle/SPB Matera",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "238",
+        "name": "Databases/Oracle",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "239",
+        "name": "Databases/PostgreSQL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "240",
+        "name": "Databases/PostgreSQL/Contabilidade",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "241",
+        "name": "Databases/PostgreSQL/Visto",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "242",
+        "name": "Databases/PostgreSQL/Glias",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "243",
+        "name": "Databases/PostgreSQL/Kong - API Gateway",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "244",
+        "name": "Databases/SQL Server",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "245",
+        "name": "Databases/SQL Server/Front Office",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "246",
+        "name": "Databases/SQL Server/Back Office",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "247",
+        "name": "Databases/SQL Server/NetServices SQL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "248",
+        "name": "Databases/SQL Server/Shareplex",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "249",
+        "name": "Databases/SQL Server/ETL Stone",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "250",
+        "name": "Databases/SQL Server/CadU Membership",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "251",
+        "name": "Databases/SQL Server/CadU Drive",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "252",
+        "name": "Databases/SQL Server/Risk",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "253",
+        "name": "Databases/SQL Server/Creditcard Updater",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "254",
+        "name": "Databases/SQL Server/WSGate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "255",
+        "name": "Databases/SQL Server/Treasury",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "256",
+        "name": "Databases/SQL Server/Global Identity",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "257",
+        "name": "Databases/SQL Server/SchemeRepository Automation",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "258",
+        "name": "Databases/SQL Server/Conciliation",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "259",
+        "name": "Databases/SQL Server/BI SP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "260",
+        "name": "Databases/SQL Server/Mundipagg",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "262",
+        "name": "Managed Services/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "263",
+        "name": "File Server",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "264",
+        "name": "ServerCentral/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "266",
+        "name": "TP Mundipagg Linux Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "267",
+        "name": "Databases",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "268",
+        "name": "QTS Atlanta",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "269",
+        "name": "QTS Atlanta/Linux servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "270",
+        "name": "QTS Atlanta/Windows servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "271",
+        "name": "iDRACs",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "273",
+        "name": "SQL Server",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "276",
+        "name": "Oracle",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "277",
+        "name": "Oracle EBS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "278",
+        "name": "QTS Atlanta/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "279",
+        "name": "Templates SNMP Devices",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "280",
+        "name": "Authorizer/Glias",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "281",
+        "name": "Authorizer/Glias/Redis",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "282",
+        "name": "QTS Atlanta/Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "283",
+        "name": "VMWare Cluster ClusterProduction1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "284",
+        "name": "ATL1-DC/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "285",
+        "name": "ATL1-DC-VMWare Cluster ClusterProduction1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "286",
+        "name": "VMWare Cluster ClusterProductionDB1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "287",
+        "name": "ATL1-DC-VMWare Cluster ClusterProductionDB1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "288",
+        "name": "VMWare Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "289",
+        "name": "ATL1-DC-VMWare Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "292",
+        "name": "Cisco Templates",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "293",
+        "name": "QTS Atlanta/Load Balancers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "294",
+        "name": "QTS Atlanta/Storage",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "295",
+        "name": "Infra Core/Network/Load Balancers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "296",
+        "name": "Server Central/Load Balancers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "297",
+        "name": "TierPoint/Load Balancers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "298",
+        "name": "Server Central/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "299",
+        "name": "TierPoint/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "300",
+        "name": "Security/Firewalls/Palo Alto",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "301",
+        "name": "Security/Firewalls/ASA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "302",
+        "name": "Security/Firewalls/Fortigate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "303",
+        "name": "QTS Atlanta/Firewalls/Fortigate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "304",
+        "name": "QTS Atlanta/Firewalls/ASA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "305",
+        "name": "QTS Atlanta/Firewalls/Palo Alto",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "307",
+        "name": "Command Center/Architecture",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "308",
+        "name": "Glias/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "310",
+        "name": "Pombo/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "311",
+        "name": "Pagadoria/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "312",
+        "name": "Portal/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "313",
+        "name": "Split/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "314",
+        "name": "Credenciamento/RabbitMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "315",
+        "name": "Server Central/Firewalls/Fortigate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "316",
+        "name": "Tier Point/Firewalls/Fortigate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "317",
+        "name": "Authorizer/Full/Scheme Responder",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "318",
+        "name": "Authorizer/Full/Authorization Provider",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "319",
+        "name": "Managed Services",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "320",
+        "name": "Managed Services/File Server",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "321",
+        "name": "Authorizer/Full/Authorization Service Bus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "322",
+        "name": "Authorizer/Full/POI",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "328",
+        "name": "Authorizer/Full/Scheme Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "333",
+        "name": "Authorizer/Full/HSM Proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "334",
+        "name": "Authorizer/Full/Crypto Operations",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "335",
+        "name": "Authorizer/Full/Crypto Key Repository",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "336",
+        "name": "Authorizer/Full/Key Manager Service Host",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "337",
+        "name": "Managed Services/Connect Direct-FTPS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "338",
+        "name": "Managed Services/ADDS-DNS-GPO",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "339",
+        "name": "Managed Services/FreeIpa",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "340",
+        "name": "Managed Services/ADCS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "341",
+        "name": "Managed Services/KMS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "342",
+        "name": "Managed Services/WSUS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "343",
+        "name": "Managed Services/Satellite",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "344",
+        "name": "Managed Services/WSBS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "345",
+        "name": "Managed Services/SMTP Relay",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "346",
+        "name": "Managed Services/Mircosoft DSC",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "347",
+        "name": "Managed Services/Syslog",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "348",
+        "name": "Managed Services/SFTP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "349",
+        "name": "Authorizer/PreEdit",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "350",
+        "name": "Authorizer/EditPackage",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "351",
+        "name": "Managed Services/RDS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "352",
+        "name": "Managed Services/Ansible",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "353",
+        "name": "Managed Services/Puppet-Foreman",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "354",
+        "name": "Managed Services/IBMMQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "355",
+        "name": "Managed Services/phpIPAM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "356",
+        "name": "Managed Services/RSAT",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "357",
+        "name": "zabbix",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "358",
+        "name": "zabbix/proxy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "359",
+        "name": "Server Central/RabbitMQ/Pagadoria",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "360",
+        "name": "TierPoint/RabbitMQ/Pagadoria",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "361",
+        "name": "Server Central/RabbitMQ/Managed Services",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "362",
+        "name": "TierPoint/RabbitMQ/Managed Services",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "363",
+        "name": "Server Central/RabbitMQ/Portal",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "364",
+        "name": "TierPoint/RabbitMQ/Portal",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "365",
+        "name": "Server Central/RabbitMQ/Pombo",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "366",
+        "name": "QTS Atlanta/RabbitMQ/Glias",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "367",
+        "name": "Server Central/RabbitMQ/Glias",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "368",
+        "name": "TierPoint/RabbitMQ/Glias",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "369",
+        "name": "TierPoint/RabbitMQ/Credenciamento",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "370",
+        "name": "QTS Atlanta/RabbitMQ/Cerberus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "371",
+        "name": "Server Central/RabbitMQ/Cerberus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "372",
+        "name": "TierPoint/RabbitMQ/Cerberus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "373",
+        "name": "Server Central/RabbitMQ/Split",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "374",
+        "name": "TierPoint/RabbitMQ/Split",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "376",
+        "name": "Financial IT/Terminal Rent Control",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "377",
+        "name": "TierPoint-VMWare Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "378",
+        "name": "Infra Delivery",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "379",
+        "name": "Managed Services/Bacula",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "380",
+        "name": "Databases/PostgreSQL/Credit_Lock",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "381",
+        "name": "Managed Services/Minio",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "382",
+        "name": "SKS - Stone Kubernetes Service",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "385",
+        "name": "ElasticSearch",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "386",
+        "name": "Oracle EBS/Healthcheck",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "387",
+        "name": "Azure VMs - YES",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "388",
+        "name": "Azure VMs - NO",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "389",
+        "name": "Azure VMs - ORPHANS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "390",
+        "name": "MongoDB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "391",
+        "name": "Databases/MongoDB/TreasureAPI (Mongo09)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "392",
+        "name": "SPO5081648",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "393",
+        "name": "VMWare Cluster Database VMs",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "394",
+        "name": "ServerCentral-VMWare Cluster Database VMs",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "395",
+        "name": "Financial IT/Acquirer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "396",
+        "name": "Financial IT/Split",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "397",
+        "name": "Financial Products/RAV",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "398",
+        "name": "Azure/Firewalls/Fortigate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "399",
+        "name": "Azure/Load Balancers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "400",
+        "name": "Tivit RJ/Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "401",
+        "name": "Tivit RJ/Firewalls/ASA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "402",
+        "name": "COF/Healthcheck",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "403",
+        "name": "Tivit SP/Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "404",
+        "name": "Tivit SP/Firewalls/ASA",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "405",
+        "name": "Azure/Linux servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "406",
+        "name": "Managed Services/Artifactory",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "407",
+        "name": "cleanup_atl1",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "408",
+        "name": "proxy_changed",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "409",
+        "name": "Credit_Lock/healthcheck",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "410",
+        "name": "172.17.55.237",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "412",
+        "name": "Authorizer/Zookeper",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "413",
+        "name": "Azure/Firewalls/CheckPoint",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "414",
+        "name": "NewRelic",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "415",
+        "name": "NewRelic_APM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "416",
+        "name": "Credit",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "417",
+        "name": "Movement",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "418",
+        "name": "Internal Transfer V2",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "419",
+        "name": "Manager",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "420",
+        "name": "Writer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "421",
+        "name": "Office",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "422",
+        "name": "Office/RJ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "423",
+        "name": "Office/RJ/Windows Servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "424",
+        "name": "Tivit SP/Router",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "425",
+        "name": "QTS Atlanta/RabbitMQ/Managed Services",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "427",
+        "name": "Tivit SP/Switches/Nexus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "428",
+        "name": "Tivit SP/Switches/Catalyst",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "429",
+        "name": "Tivit RJ/Switches/Nexus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "430",
+        "name": "Tivit RJ/Switches/Catalyst",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "432",
+        "name": "zabbix/proxy/service/chi1-proxyvm-zabbix.buy4.io",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "433",
+        "name": "zabbix/proxy/service",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "434",
+        "name": "zabbix/proxy/service/atl1-proxyvm-zabbix.buy4.io",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "435",
+        "name": "zabbix/proxy/service/azure-proxyvm-zabbix.buy4.io",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "446",
+        "name": "CHI1-DC/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "447",
+        "name": "CHI1-DC-VMWare Cluster ClusterProduction1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "448",
+        "name": "Graylog",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "449",
+        "name": "QTS Chicago",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "450",
+        "name": "QTS Chicago/Load Balancers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "451",
+        "name": "Tivit RJ/Router",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "452",
+        "name": "Sre Chapter",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "453",
+        "name": "Managed Services/IDM",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "455",
+        "name": "NTP/SyncServer S600",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "456",
+        "name": "GateKeeper",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "457",
+        "name": "RAV/Healthcheck",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "458",
+        "name": "QTS Chicago/Linux servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "459",
+        "name": "QTS Chicago/Windows servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "460",
+        "name": "Azure/ Windows servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "461",
+        "name": "Azure",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "462",
+        "name": "GCP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "463",
+        "name": "GCP/Linux servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "464",
+        "name": "GCP/Windows servers",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "465",
+        "name": "VMWare Cluster Cisco-B200",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "466",
+        "name": "Tivit-SP/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "467",
+        "name": "Tivit-SP-VMWare Cluster Cisco-B200",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "468",
+        "name": "Tivit-RJ/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "469",
+        "name": "Tivit-RJ-VMWare Cluster Cisco-B200",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "470",
+        "name": "VMWare Cluster Farm-1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "471",
+        "name": "Fidencio Ramos/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "472",
+        "name": "Fidencio Ramos-VMWare Cluster Farm-1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "473",
+        "name": "VMWare Cluster Transactional Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "474",
+        "name": "TIVIT-RJ/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "475",
+        "name": "TIVIT-RJ-VMWare Cluster Transactional Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "476",
+        "name": "TIVIT-SP/Hypervisors",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "477",
+        "name": "TIVIT-SP-VMWare Cluster Transactional Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "478",
+        "name": "TIVIT-SP-VMWare Cluster",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "479",
+        "name": "Tivit RJ/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "480",
+        "name": "Tivit SP/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "481",
+        "name": "Financial IT/Split/API Health checks",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "482",
+        "name": "Office/RJ/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "483",
+        "name": "Databases/SQL Server/TMS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "484",
+        "name": "QTS Chicago/Switches",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "485",
+        "name": "Test Permission",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "486",
+        "name": "QTS Chicago/Firewalls/Fortigate",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "487",
+        "name": "QTS Chicago/Firewalls",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "488",
+        "name": "FrontOffice/Transactional/POI/TCP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "489",
+        "name": "FrontOffice/Transactional/POI/HTTP",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "490",
+        "name": "CHI1-DC-VMWare Cluster ClusterProductionDB1",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "492",
+        "name": "Trendmicro",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "493",
+        "name": "Managed Services/Infra_Antivirus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "494",
+        "name": "QTS Chicago/Firewalls/Palo Alto",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "495",
+        "name": "Databases/SQL Server/Credenciamento",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "496",
+        "name": "Databases/SQL Server/SchemeTools",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "497",
+        "name": "Databases/SQL Server/TransactionRepository",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "498",
+        "name": "QTS Atlanta/Transactional/POIService",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "499",
+        "name": "Authorizer/Transaction Notifier",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "501",
+        "name": "Authorizer/Full/POI-SC",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "502",
+        "name": "Authorizer/Full/POI-HTTP-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "503",
+        "name": "Authorizer/Full/POI-TCP-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "504",
+        "name": "Authorizer/authorization-provider-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "505",
+        "name": "Authorizer/serviceBus",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "506",
+        "name": "Authorizer/Account Range",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "507",
+        "name": "Authorizer/Full/Key Manager Service Host-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "508",
+        "name": "Authorizer/scheme-proxy-american-express",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "509",
+        "name": "Authorizer/scheme-proxy-elo",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "510",
+        "name": "Authorizer/scheme-proxy-mastercard-sms-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "511",
+        "name": "Authorizer/Full/HSM Proxy-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "512",
+        "name": "Authorizer/scheme-proxy-mastercard-dms-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "513",
+        "name": "Authorizer/scheme-proxy-visa-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "514",
+        "name": "Authorizer/scheme-proxy-cabal-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "515",
+        "name": "Authorizer/scheme-responder-cabal-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "516",
+        "name": "Authorizer/scheme-responder-mastercard-dms-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "517",
+        "name": "Authorizer/scheme-responder-mastercard-sms-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "518",
+        "name": "Authorizer/scheme-responder-visa-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "519",
+        "name": "Authorizer/scheme-responder-amex-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "520",
+        "name": "Databases/SQL Server/Crivo",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "521",
+        "name": "Crivo",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "522",
+        "name": "SC Windows Agent Ossec and Deep Security",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "523",
+        "name": "GateKeeper-QTS-ATL",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "524",
+        "name": "Authorizer/Full/Databases-QTS-ATL-9",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "525",
+        "name": "Databases/PostgreSQL/3CX",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "528",
+        "name": "Healthcheck",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "529",
+        "name": "Financial Systems",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "532",
+        "name": "Authorizer/SW-ATLQTS93180-1 <> MIP_2BQ",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "533",
+        "name": "Authorizer/SW-ATLQTS93180-2 <> MIP_2BR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "534",
+        "name": "Interchange",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "535",
+        "name": "Interchange/Visa",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "536",
+        "name": "Managed Services/CMDB",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "538",
+        "name": "Authorizer/SW-ATLQTS93180-1 <> eaus0038-1",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "539",
+        "name": "Authorizer/SW-ATLQTS93180-2 <> eaus0038-2",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "540",
+        "name": "AccessoryObligation",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "541",
+        "name": "AccountingIntegrator",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "542",
+        "name": "VMWare Cluster ClusterProduction2",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "543",
+        "name": "ATL1-DC-VMWare Cluster ClusterProduction2",
+        "internal": "0",
+        "flags": "4"
+    },
+    {
+        "groupid": "544",
+        "name": "Integrations",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "545",
+        "name": "QTS Atlanta/RabbitMQ/Affiliation",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "546",
+        "name": "Teste",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "547",
+        "name": "GPS",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "548",
+        "name": "Financial IT/Conciliation/conciliation-publicapi",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "549",
+        "name": "Financial IT/conciliation/conciliation-application",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "550",
+        "name": "Authorizer/Glias/API",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "551",
+        "name": "Authorizer/Glias/Scheme-Proxy-Ticket",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "552",
+        "name": "Authorizer/Glias/Scheme-Proxy-SoroCred",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "553",
+        "name": "Authorizer/Glias/Scheme-Proxy-BanesCard",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "554",
+        "name": "Authorizer/Glias/Scheme-Proxy-Alelo",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "555",
+        "name": "Authorizer/Glias/Scheme-Proxy-RedesCompras",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "556",
+        "name": "Authorizer/Glias/BusinessLayer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "557",
+        "name": "Identity Manager (IDM)",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "558",
+        "name": "Managed Services/Jump Linux",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "559",
+        "name": "Tivit/Ticket",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "560",
+        "name": "Authorizer/Glias/Scheme-Proxy-Sodexo",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "561",
+        "name": "Authorizer/Glias/Scheme-Proxy-VR",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "562",
+        "name": "Authorizer/Glias/Scheme-Proxy-Others",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "563",
+        "name": "QTS_ATL/GLIAS/Databases-SERVER",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "564",
+        "name": "Affiliation - Service Layer",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "565",
+        "name": "Airflow",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "566",
+        "name": "Affiliation - Message Broker",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "567",
+        "name": "Affiliation - Public API",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "568",
+        "name": "Affiliation - Paytrue Legacy",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "569",
+        "name": "Databases/PostgreSQL/Clearing",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "570",
+        "name": "Template Win2k19",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "571",
+        "name": "Managed Services/Proxys",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "572",
+        "name": "zabbix/proxy/service/chi1-proxy-zabbix.buy4.io",
+        "internal": "0",
+        "flags": "0"
+    },
+    {
+        "groupid": "573",
+        "name": "QTS Atlanta/RabbitMQ/TMS",
+        "internal": "0",
+        "flags": "0"
+    }
+]
