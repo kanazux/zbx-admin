@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """ Get Zabbix configuration data from the Zazbbix Rest API """
 
 
